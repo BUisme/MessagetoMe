@@ -3,7 +3,7 @@
 // ตัวอย่าง:
 //   - เวลาเทสในเครื่อง:   const API_BASE = "http://localhost:3000";
 //   - เวลาใช้ของจริง:      const API_BASE = "https://YOUR-BACKEND-URL-HERE";
-const API_BASE = "https://YOUR-BACKEND-URL-HERE";
+const API_BASE = "https://messagetome.onrender.com";
 
 // key สำหรับเก็บลิงก์ใน localStorage (ฝั่งผู้สร้างเท่านั้น)
 const LS_KEY = "anon_links_v1";
